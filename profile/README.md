@@ -10,3 +10,14 @@ The HyperKuber container management platform is a powerful tool for those who us
 
 
 Based on the HyperKuber container management platform, HyperShift adds support for OpenShift clusters and is compatible with the latest version of the OpenShift platform. Added management of OpenShift cluster resources, such as DeploymentConfig, Route, BuildConfig and other types. HyperShift can manage not only Openshift clusters, but also Kubernetes clusters. For OpenShift's build capabilities, HyperShift provides the functionality of building images from source code, binary, s2i, etc. With the help of OpenShift routing, HyperShift provides grayscale depoyment of applications.
+
+
+# Resource
+
+[Online Document](https://docs.sheencloud.com/home)
+
+[Customer Center](https://account.sheencloud.com/)
+
+[Discussion Forum](https://github.com/orgs/sheencloud/discussions)
+
+[Slack Channel](https://sheencloud-workspace.slack.com)
