@@ -14,7 +14,7 @@ Based on the HyperKuber container management platform, HyperShift adds support f
 
 # Resource
 
-[Online Document](https://docs.sheencloud.com/home  target="_blank)
+[Online Document](https://docs.sheencloud.com/home)
 
 [Customer Center](https://account.sheencloud.com/)
 
